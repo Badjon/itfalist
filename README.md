@@ -1,0 +1,2 @@
+# itfalist
+Fixet assets list
